@@ -16,8 +16,12 @@ npm i base65636
 
 ## Usage
 
-```sh
-npm run start
+```js
+const {encode, decode} = require("base65536-helper")
+
+const data = {name: "david", username: "gypsydangerous"}
+const encodedData = encode(data)
+const decodedData = JSON.parse(decode(encodedData)) // => {name: "david", username: "gypsydangerous"}
 ```
 
 ## Run tests
