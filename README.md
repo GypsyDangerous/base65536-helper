@@ -11,7 +11,7 @@
 ## Install
 
 ```sh
-npm i base65636
+npm i base65636-helper
 ```
 
 ## Usage
