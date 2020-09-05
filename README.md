@@ -6,7 +6,7 @@
   </a>
 </p>
 
-> Helper functions for the base65536 library to make it easier to encode and decode common data types
+> Helper functions for the base65536 library to make it easier to encode and decode common data types. Check out base65536 at https://github.com/qntm/base65536
 
 ## Install
 
