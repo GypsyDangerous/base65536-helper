@@ -1,4 +1,4 @@
-<h1 align="center">Welcome to base65536-helper 👋</h1>
+# Welcome to base65536-helper 👋
 <p>
   <img alt="Version" src="https://badge.fury.io/js/base65536-helper.svg" />
   <a href="/LICENSE" target="_blank">
