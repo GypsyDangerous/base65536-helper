@@ -43,5 +43,33 @@ Contributions, issues and feature requests are welcome!<br />Feel free to check 
 
 Give a ⭐️ if this project helped you!
 
+## Documentation
+
+ ### encode
+ ```sh
+ accepts "string", "number", "object", and "boolean"
+ returns "base65536 string"
+ ```
+
+ ### decode
+ ```sh
+ accepts "base65536 string"
+ returns "string"
+ ```
+
+ ### rawDecode
+ #### raw base65536 decode function
+ ```sh
+ accepts "base65536 string"
+ returns Uint8Array
+ ```
+
+  ### rawEncode
+ #### raw base65536 encode function
+ ```sh
+ accepts Uint8Array
+ returns "base65536 string"
+ ```
+
 ***
 _This README was generated with ❤️ by [readme-md-generator](https://github.com/kefranabg/readme-md-generator)_
