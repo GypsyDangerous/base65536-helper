@@ -1,8 +1,9 @@
 {
   "name": "base65536-helper",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "",
   "main": "index.js",
+  "repository": "GypsyDangerous/base65536-helper",
   "scripts": {
     "build": "tsc src/index.ts",
     "run": "node src/index.js",
