@@ -1,4 +1,4 @@
-const {encode, decode} = require("./index")
+const {encode, decode} = require("../dist/index")
 test('bad data to throw an error', () => {
    try{
        encode(() => 10)
