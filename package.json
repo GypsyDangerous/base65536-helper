@@ -1,7 +1,7 @@
 {
   "name": "base65536-helper",
   "version": "1.0.3",
-  "description": "",
+  "description": "Helper functions for the base65536 package",
   "main": "dist/index.js",
   "types": "dist/index.d.ts",
   "repository": "GypsyDangerous/base65536-helper",
